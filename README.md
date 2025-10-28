@@ -41,20 +41,31 @@ El proyecto está pensado para servir como **referencia de UI/UX** y práctica e
 
 ## Screenshots
 
-1. **Pantalla principal**  
-   ![Pantalla principal](screenshots/main_screen.png)
+1. **Pantalla Principal**  
+   ![Botones](screenshots/pantalla_princiapl.png)
 
 2. **Botones**  
    ![Botones](screenshots/buttons.png)
 
 3. **Tarjetas**  
    ![Tarjetas](screenshots/cards.png)
-4. **TextFields**  
-   ![TextFields](screenshots/textfields.png)
+4. **Avatares**  
+   ![Avatares](screenshots/avatares.png)
 
-5. **Switch y Slider**  
-   ![Switch y Slider](screenshots/switch_slider.png)
+5. **Badges**  
+   ![Badges](screenshots/badges.png)
 
+6. **Chips**  
+   ![Chips](screenshots/chips.png)
+
+7. **Alertas**  
+   ![Alertasa](screenshots/alertas.png)
+
+8. **Inputs**  
+   ![Inputs](screenshots/inputs.png)
+
+9. **Progeso**  
+   ![Progreso](screenshots/progreso.png)
 
 ---
 
